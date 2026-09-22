@@ -1,0 +1,18 @@
+# Environments
+.env
+.env.local
+.venv
+venv/
+env/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database
+community.db
+
+# User Uploads
+static/uploads/*
+!static/uploads/.gitkeep

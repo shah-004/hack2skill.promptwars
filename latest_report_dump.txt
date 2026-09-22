@@ -1,0 +1,10 @@
+ID: 8
+Content: [https://www.adobe.com](https://www.adobe.com)
+
+Analysis Summary:
+# 🛡️ Cyber Safety Analysis: Adobe Inc. (adobe.com)
+
+---
+
+## 1. Severity Breakdown
+**Overall Severity:** <
